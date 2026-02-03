@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Transcrição e Legenda - Zooming Timeline",
+  "description": "An application to transcribe a video using Gemini, edit the subtitles, and export the final video with burned-in captions. Features include video rotation, subtitle styling, and an interactive timeline editor.",
+  "requestFramePermissions": []
+}
